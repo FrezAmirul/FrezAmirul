@@ -26,7 +26,7 @@
 <p align="center">❤ good on android application, backend server and sometimes game dev</p>
 
 <p align="center">
-  <strong><a href="">My Official Website</a></strong> |
+  <strong><a href="#">My Official Website</a></strong> |
   <strong><a href="https://discord.gg/gSyjwfy7tc">Discord</a></strong> |
   <strong><a href="https://www.instagram.com/frez._/">Instagram</a></strong>
 </p>
