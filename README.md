@@ -28,7 +28,7 @@
 <p align="center">
   <strong><a href="">My Official Website</a></strong> |
   <strong><a href="https://discord.gg/gSyjwfy7tc">Discord</a></strong> |
-  <strong><a href="https://www.instagram.com/frez/">Instagram</a></strong>
+  <strong><a href="https://www.instagram.com/frez._/">Instagram</a></strong>
 </p>
 
 <!--
