@@ -1,18 +1,12 @@
 ## Hello Everyone
 
 My name is farez and im a newbies programmer.
- 
 these are the language that i learn:
-- Python
-- C
-- C++
-- java
-- Kotlin
-- Html, CSS and JavaScript
-- also SQL
+> Python, C, C++, java, Kotlin, SQL, Html, CSS and JavaScript
 
 ### My Project
-- text-base RPG game using python. > only project that run flawlessly
+- text-base RPG game using python.
+> only project that run flawlessly
 - music player application for windows user  `have bug due to youtube policy`
 - RPG discord bot  `Not finish`
 - arduino LED serial controller `arduino now broken`
