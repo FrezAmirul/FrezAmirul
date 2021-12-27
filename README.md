@@ -1,22 +1,25 @@
 ## Hello Everyone
 
-My name is farez and im just start involve in this world just this year.
+My name is farez and im a newbies programmer.
  
-throughout this year i have learn.
-- Pyhton
+these are the language that i learn:
+- Python
+- C
 - C++
+- java
 - Kotlin
 - Html, CSS and JavaScript
+- also SQL
 
 ### My Project
-- text-base RPG game using python.
-- music player application for windows user  `Abandoned`
-- RPG discord bot  `Abandoned`
-- arduino LED serial controller
-- anime guessing website  `Abandoned`
-- android chating app  `Abandoned`
-- android music player
-- android music player advance  `Abandoned`
+- text-base RPG game using python. > only project that run flawlessly
+- music player application for windows user  `have bug due to youtube policy`
+- RPG discord bot  `Not finish`
+- arduino LED serial controller `arduino now broken`
+- anime guessing website  `Not finish`
+- android chating app  `Not finish`
+- android music player `Not finish`
+- android chat app > currently on development
 
 <!---
 FrezAmirul/FrezAmirul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
