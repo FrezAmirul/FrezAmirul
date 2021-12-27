@@ -1,6 +1,7 @@
 ## Hello Everyone
 
-My name is farez and im a newbies programmer.
+#### My name is farez and im a newbies programmer.
+
 these are the language that i learn:
 > Python, C, C++, java, Kotlin, SQL, Html, CSS and JavaScript
 
