@@ -14,7 +14,6 @@
 - ✨ Networking & Cloud Computing
 - ✨ Web Development
 - ✨ Mobile Development
-- ✨ Game Development
 
 
 ## - Hobbies : 
