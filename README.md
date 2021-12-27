@@ -15,10 +15,6 @@
 - Web Development
 - Mobile Development
 
-
-## - Hobbies : 
-- Gaming Addict
-- watching Youtube videos
 </br>
 </br>
 
