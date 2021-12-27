@@ -5,14 +5,14 @@ On my free time, I program some project that suit to my interest as well train m
 
 
 ### My Project
-- text-base RPG game using python ***currently on development***
+- text-base RPG game using python `my first project that work flawlessly`
 - music player application for windows user  `have bug due to youtube policy`
 - RPG discord bot  `Not finish`
 - arduino LED serial controller `arduino now broken`
 - anime guessing website  `Not finish`
 - android chating app  `Not finish`
 - android music player `Not finish`
-- android chat app ***currently on development***
+- android chat app `currently on development`
 
 <!---
 FrezAmirul/FrezAmirul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
