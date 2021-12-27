@@ -1,30 +1,28 @@
+## Hi there 👋
+
 <p align="center">
   <img src="banner.png" alt="frez banner"/>
 </p>
 
-<h1 align="center">Hello there, I'm <a href="">Farez Amirul</a>!</h1>
-<h1 align="center">Welcome to my GitHub profile</h1>
+#### I'm a electrical engineering student study at at Johor, Malaysia.
 
+#### NOW
 
-### I'm a student at UiTM located at Johor, Malaysia. I'm currently studying diploma in electrical engineer since year of 2021.
+- Developing [Android Chat Application](#)
+- Also developing embedded system application
+- And more... (soon or later)
 
+#### BIO
 
+- Im a student of electrical engineering at [Universiti Teknologi Mara ](https://uitm.edu.my/)
+- ⚙️ My used case: `.py`, `.js`, `.kt`, `.c`, `.cpp`, and sometimes `.css`, `.html`
+- 🌍 rarely active on social media as im not a fan of it
+- 🎵 I love listening to pop music
+- 🌱 Basicly learning all about **Open Source** as its help other people to learn new things
+- 💬 You can reach me about **system design**, **development** and **design thinking**
+- ⚡️ Fun fact: I'm a huge fan of Harry Potter
 
-## - Learning :
-- Networking & Cloud Computing
-- Web Development
-- Mobile Development
-
-</br>
-</br>
-
-<p align="center">I'm ready to create and publish more project!!</p>
-
-<p align="center">
-  <strong><a href="#">My Official Website</a></strong> |
-  <strong><a href="https://discord.gg/gSyjwfy7tc">Discord</a></strong> |
-  <strong><a href="https://www.instagram.com/frez._/">Instagram</a></strong>
-</p>
+#### You can reach me at: **[My Official Website](#) | [Instagram](https://www.instagram.com/frez._) | [Twitter](https://twitter.com/frezamirul) | [Discord](https://discord.gg/)**
 
 <!--
 **edisonlee55/edisonlee55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
