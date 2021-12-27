@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hello there, I'm <a href="">Farez Amirul</a>!</h1>
-<h1 align="center">Welcome to my GitHub profile~ UwU</h1>
+<h1 align="center">Welcome to my GitHub profile~</h1>
 
 
 ### I'm a student at UiTM located at Johor, Malaysia. I'm currently studying diploma in electrical engineer since year of 2021.
@@ -11,14 +11,14 @@
 
 
 ## - Learning :
-- ✨ Networking & Cloud Computing
-- ✨ Web Development
-- ✨ Mobile Development
+- Networking & Cloud Computing
+- Web Development
+- Mobile Development
 
 
 ## - Hobbies : 
-- ✨ Gaming Addict
-- ✨ watching Youtube videos
+- Gaming Addict
+- watching Youtube videos
 </br>
 </br>
 
