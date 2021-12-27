@@ -22,7 +22,7 @@
 </br>
 </br>
 
-<p align="center">❤ good on android application, backend server and sometimes game dev</p>
+<p align="center">I'm ready to create and publish more project!!</p>
 
 <p align="center">
   <strong><a href="#">My Official Website</a></strong> |
