@@ -15,7 +15,7 @@
 #### BIO
 
 - Im a student of electrical engineering at [Universiti Teknologi Mara ](https://uitm.edu.my/)
-- ⚙️ My used case: `.py`, `.js`, `.kt`, `.c`, `.cpp`, and sometimes `.css`, `.html`
+- ⚙️ My project involve : `.py`, `.js` , `.kt` , `.c` , `.cpp` , and sometimes `.css` , `.html` , `.json` .
 - 🌍 rarely active on social media as im not a fan of it
 - 🎵 I love listening to pop music
 - 🌱 Basicly learning all about **Open Source** as its help other people to learn new things
