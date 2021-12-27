@@ -1,6 +1,6 @@
 ## Hello Everyone
 
-#### My name is farez and im a newbies programmer.
+#### My name is farez currently 18 year olds and presuading diploma in electrial engineering. On my free time (or everytime) i'm programming some project and train my knowlage about certain algoritm (but keep forgetting some of the sytax).
 
 these are the language that i learn:
 > Python, C, C++, java, Kotlin, SQL, Html, CSS and JavaScript
