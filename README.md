@@ -8,21 +8,16 @@
 
 #### NOW
 
-- Developing [Android Chat Application](#)
-- Also developing embedded system application
-- And more... (soon or later)
+- Nothing particular for now
 
 #### BIO
 
 - Im a student of electrical engineering at [Universiti Teknologi Mara ](https://uitm.edu.my/)
 - My project involve : `.py`, `.js` , `.kt` , `.c` , `.cpp` , and sometimes `.css` , `.html` , `.json` .
 - rarely active on social media as im not a fan of it
-- I love listening to pop music
-- Basicly learning all about **Open Source** as its help other people to learn new things
-- You can reach me about **system design**, **development** and **design thinking**
-- Fun fact: I'm a huge fan of Harry Potter
+- Fun fact: There is no fun fact
 
-#### You can reach me at: **[My Official Website](#) | [Instagram](https://www.instagram.com/frez._) | [Twitter](https://twitter.com/frezamirul) | [Discord](https://discord.gg/gSyjwfy7tc)**
+#### You can reach me at: ** [Instagram](https://www.instagram.com/frez._) | [Twitter](https://twitter.com/frezamirul) | [Discord](https://discord.gg/gSyjwfy7tc)**
 
 <!--
 **edisonlee55/edisonlee55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
