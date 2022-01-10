@@ -17,7 +17,7 @@
 - rarely active on social media as im not a fan of it
 - Fun fact: There is no fun fact
 
-#### You can reach me at: ** [Instagram](https://www.instagram.com/frez._) | [Twitter](https://twitter.com/frezamirul) | [Discord](https://discord.gg/gSyjwfy7tc)**
+#### You can reach me at: [Instagram](https://www.instagram.com/frez._) | [Twitter](https://twitter.com/frezamirul) | [Discord](https://discord.gg/gSyjwfy7tc)
 
 <!--
 **edisonlee55/edisonlee55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
