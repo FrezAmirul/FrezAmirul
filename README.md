@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="banner.png" alt="frez banner"/>
+  <img src="banner.png" alt="frez banner" style={width: "50vh"}/>
 </p>
 
 #### I'm a student in electrical engineering field.
