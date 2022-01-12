@@ -4,12 +4,10 @@
   <img src="banner.png" alt="frez banner"/>
 </p>
 
-#### I'm a electrical engineering student study at at Johor, Malaysia.
+#### Somebody who in electrical engineering field.
 
 #### BIO
 
-- A student of electrical engineering at [Universiti Teknologi Mara ](https://uitm.edu.my/)
-- Project involve : `.py`, `.js` , `.kt` , `.c` , `.cpp` , and sometimes `.css` , `.html` , `.json` .
 - rarely active on social media as im not a fan of it.
 - Fun fact: There is no fun fact.
 
