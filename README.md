@@ -4,12 +4,11 @@
   <img src="banner.png" alt="frez banner"/>
 </p>
 
-#### Somebody who in electrical engineering field.
+#### I'm a student in electrical engineering field.
 
 #### BIO
 
-- rarely active on social media as im not a fan of it.
-- Fun fact: There is no fun fact.
+- Let's keep it private should we.
 
 #### You can reach me at: [Instagram](https://www.instagram.com/frez._) | [Twitter](https://twitter.com/frezamirul) | [Discord](https://discord.gg/gSyjwfy7tc)
 
